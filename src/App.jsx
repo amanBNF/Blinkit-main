@@ -1,10 +1,10 @@
 import { Route, Routes } from "react-router-dom";
-import Home from "./landing page/home/HomePage";
+import Home from "./landing-page/home/HomePage";
 import Cart from "./pages/Cart";
 import { ToastContainer } from "react-toastify";
 import 'react-toastify/dist/ReactToastify.css';
 import { useState } from "react"
-import Navbar from "./landing page/Navbar";
+import Navbar from "./landing-page/Navbar";
 import Footer from "./landing-page/Footer";
 import Modal from "./components/Modal";
 import Category from "./pages/Category.jsx";
