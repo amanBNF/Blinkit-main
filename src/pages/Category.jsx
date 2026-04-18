@@ -1,6 +1,6 @@
 import React from "react"
 import { useLocation, useParams, useNavigate } from "react-router-dom"
-import Card from "../landing page/Card.jsx"
+import Card from "../landing-page/Card.jsx"
 
 export default function Category() {
   const { slug } = useParams()
